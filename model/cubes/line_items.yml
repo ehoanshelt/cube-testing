@@ -64,4 +64,4 @@ cubes:
         # Learn more: https://cube.dev/docs/reference/data-model/types-and-formats#count_distinct_approx
       - name: product_count
         sql: product_id
-        type: count_distinct_approx
+        type: count_distinct
